@@ -1,0 +1,9 @@
+# Ignore database files
+*.db
+nexus_inventory.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+inventory_20260327_000146.pdf
